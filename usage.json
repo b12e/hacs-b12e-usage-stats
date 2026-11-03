@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:32:57.637439+00:00",
+  "generated_at": "2026-11-03T13:56:03.950347+00:00",
   "analytics_source": "https://analytics.home-assistant.io/custom_integrations.json",
   "integrations": {
     "lynkco": {
@@ -17,12 +17,12 @@
         "3.2.0": 19,
         "3.0.1": 5,
         "2.4.0": 2,
-        "3.3.1": 1,
+        "3.3.1": 2,
         "3.1.0": 1,
         "3.3.0b1": 1
       },
-      "total_usage": 29
+      "total_usage": 30
     }
   },
-  "total_usage": 62
+  "total_usage": 63
 }
