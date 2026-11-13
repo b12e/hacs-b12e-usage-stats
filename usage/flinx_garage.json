@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T14:56:02.832861+00:00",
+  "generated_at": "2026-11-13T13:15:54.448190+00:00",
   "domain": "flinx_garage",
   "source_repo": "b12e/flinx-garage-ha",
   "analytics_source": "https://analytics.home-assistant.io/custom_integrations.json",
   "usage_per_version": {
-    "3.3.3": 16,
-    "3.3.2": 6,
+    "3.3.3": 19,
     "3.0.1": 4,
-    "3.2.0": 3,
+    "3.3.2": 4,
     "2.4.0": 2,
     "3.3.1": 2,
+    "3.2.0": 2,
     "3.1.0": 1
   },
   "total_usage": 34
