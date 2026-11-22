@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-21T14:27:53.659226+00:00",
+  "generated_at": "2026-11-22T14:23:29.443899+00:00",
   "analytics_source": "https://analytics.home-assistant.io/custom_integrations.json",
   "integrations": {
     "lynkco": {
       "source_repo": "b12e/ha_lynkco_2025",
       "usage_per_version": {
-        "2026.11.1": 36,
+        "2026.11.1": 38,
         "0.6.1": 8,
         "0.5.0": 1
       },
-      "total_usage": 45
+      "total_usage": 47
     },
     "flinx_garage": {
       "source_repo": "b12e/flinx-garage-ha",
@@ -25,5 +25,5 @@
       "total_usage": 36
     }
   },
-  "total_usage": 81
+  "total_usage": 83
 }
